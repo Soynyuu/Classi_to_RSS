@@ -1,0 +1,2 @@
+# Classi_to_RSS
+Classiの新着情報をRSSまたはXMLフォーマットに変換するスクリプト
